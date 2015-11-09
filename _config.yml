@@ -4,7 +4,7 @@ pygments: true
 source: .
 permalink: /:title/
 baseurl: "/"
-url: http://schlos.github.io/legal
+url: http://legal.imamopravoznati.org
 exclude:
 - ".*"
 - "*.md"
