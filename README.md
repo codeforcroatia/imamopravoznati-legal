@@ -1,14 +1,14 @@
 # Legal Boilerplate
 
-This is a service to browse and customise the growing collection of legal templates for startups in Singapore.
+This is a service to browse and customise the growing collection of legal templates for FOI appeals in Croatia.
 
-<http://legal.cf.sg>
+<http://legal.imamopravoznati.org>
 
 ## FAQ
 
 ###### Who is running this?
 
-The service is being offered by Cofounders Pte Ltd. However, the legal agreements are authored and published by others.
+The service is being offered by Code for Croatia. However, the legal agreements are authored and published by others.
 
 ###### So can I use these templates for free?
 
@@ -16,17 +16,10 @@ You sure can! Check out [LICENSE.md](LICENSE.md) for the copyright terms.
 
 ###### Why is this needed?
 
-Startups have ninety-nine problems but legal expenses shouldn't be one. Let's face it, lawyers are expensive and startups don't have much money.
-
-By sharing solid boilerplate contracts for common issues, a lot of repetitive legal work can be avoided.
 
 ###### Why are you doing this?
 
-We want to contribute to the startup ecosystem in Singapore. As it grows stronger, we all benefit.
-
-###### But won't you upset the lawyers?
-
-Actually we have some awesome startup-loving lawyers contributing legal templates. And the Old Guard probably doesn't care about poor startups, let alone know about GitHub.
+We want to contribute to the access to information in Croatia. As it grows stronger, we all benefit.
 
 ###### How do I help out?
 
@@ -38,11 +31,11 @@ Thanks.
 
 ## Disclaimer
 
-Cofounders Pte Ltd is not a law firm, and the contributors to this service are not acting as your attorney.
+Code for Croatia is not a law firm, and the contributors to this service are not acting as your attorney.
 
-The templates are free for use, however the authors (Bernard and Huifen) and Cofounders Pte Ltd cannot be responsible for the consequences of use.
+The templates are free for use, however the authors (Miroslav) and Code for Croatia cannot be responsible for the consequences of use.
 
-Startups and investors alike should read and understand the templates and determine the suitability for their particular situation. If in doubt, you should consult professional advisors.
+Users alike should read and understand the templates and determine the suitability for their particular situation. If in doubt, you should consult professional advisors.
 
 The authors welcome questions and comments to improve the templates but they are not able to consult for free as they have their day jobs.
 
