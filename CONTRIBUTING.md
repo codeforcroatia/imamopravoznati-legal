@@ -4,9 +4,9 @@ Collaboration is key to this project. Legal templates are complex legal document
 
 ### Discussion
 
-The [cofounders/legal](https://github.com/cofounders/legal) repository on GitHub is where the legal templates are stored.
+The [codeforcroatia/legal.imamopravoznati.org](https://github.com/codeforcroatia/legal.imamopravoznati.org) repository on GitHub is where the legal templates are stored.
 
-It is a public repo so anyone can participate in the discussion by creating and commenting on [issues](https://github.com/cofounders/legal/issues).
+It is a public repo so anyone can participate in the discussion by creating and commenting on [issues](https://github.com/codeforcroatia/legal.imamopravoznati.org/issues).
 
 ### Workflow
 
@@ -41,25 +41,25 @@ These guidelines should help all templates live in peace and harmony.
     ```yaml
     ---
     layout: document
-    title: Consulting Agreement
+    title: Žalba protiv rješenja tijela javne vlasti
     license:
-      name: Creative Commons Attribution 3.0 Singapore (CC BY 3.0 SG)
-      url: http://creativecommons.org/licenses/by/3.0/sg/deed.en_US
+      name: CC0 1.0 Univerzalno (CC0 1.0)
+      url: https://creativecommons.org/publicdomain/zero/1.0/deed.hr
     authors:
-      - name: Cofounders Pte Ltd
-        contact: http://www.cofounders.sg/
+      - name: Ivan Horvat
+        contact: http://github.com/ivanhorvat
     tags:
-      - consultant
-      - entrepreneur
+      - zalba
+      - pristupinfo
     ---
     ```
 
     1. The template property must be set to `document` to be rendered correctly.
 
-    1. Document tags are used to filter the document listing. The currently supported tags are: `consultant`, `entrepreneur`, and `investor`.
+    1. Document tags are used to filter the document listing. The currently supported tags are: `zalba`, `pristupinfo`, and `ponovnauporaba`.
 
     1. List the authors' names and email/web addresses in the YAML front-matter if they wish to be attributed.
 
-    1. Yo dawg, we heard you like licenses so always specify a license for your license. The recommended license for legal documents in Singapore is [Creative Commons Attribution 3.0 Singapore (CC BY 3.0 SG)](http://creativecommons.org/licenses/by/3.0/sg/deed.en_US). It comes in many other country specific flavours.
+    1. Yo dawg, we heard you like licenses so always specify a license for your license. The recommended license for is [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.hr). It comes in many other country specific flavours.
 
 1. Author your legal template by following the HTML structures as defined in [`PRIMITIVES.md`](PRIMITIVES.md).
