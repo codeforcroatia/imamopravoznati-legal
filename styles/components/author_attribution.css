@@ -17,7 +17,7 @@ ul.authors li:last-child:after {
   content: none;
 }
 ul.authors li:first-child:before {
-  content: 'by ';
+  content: '';
 }
 ul.authors li:last-child:not(:first-child):before {
   content: '\& ';
