@@ -17,6 +17,10 @@ owner:
   website: http://codeforcroatia.org
   github: https://github.com/codeforcroatia
   facebook: https://www.facebook.com/kodirajzahrvatsku
+  
+project:
+  name: Imamo pravo znati
+  website: http://imamopravoznati.org
 
 license:
   name: CC0
