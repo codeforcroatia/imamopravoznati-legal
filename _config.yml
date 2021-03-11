@@ -1,6 +1,10 @@
 safe: true
 lsi: false
-pygments: true
+# PYGMENTS
+# You are attempting to use the 'pygments' highlighter, which is currently unsupported on GitHub Pages. 
+# Your site will use 'rouge' for highlighting instead. To suppress this warning, change the 'highlighter' 
+# value to 'rouge' in your '_config.yml' and ensure the 'pygments' key is unset.
+pygments: false
 source: .
 permalink: /:title/
 baseurl: "/"
