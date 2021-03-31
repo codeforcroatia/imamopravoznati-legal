@@ -26,6 +26,11 @@ project:
   name: Imamo pravo znati
   website: https://imamopravoznati.org
 
+ombudsman:
+  name: Povjerenik za informiranje
+  email: ppi@pristupinfo.hr
+  website: https://www.pristupinfo.hr
+
 license:
   name: CC0
   url: https://creativecommons.org/publicdomain/zero/1.0/deed.hr
