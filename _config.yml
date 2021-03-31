@@ -8,7 +8,7 @@ pygments: false
 source: .
 permalink: /:title/
 baseurl: "/"
-url: http://legal.imamopravoznati.org
+url: https://legal.imamopravoznati.org
 exclude:
 - ".*"
 - "*.md"
@@ -24,7 +24,7 @@ owner:
   
 project:
   name: Imamo pravo znati
-  website: http://imamopravoznati.org
+  website: https://imamopravoznati.org
 
 license:
   name: CC0
